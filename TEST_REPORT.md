@@ -27,3 +27,7 @@
 - Accessibility: 100 (fixed: brand orange text/buttons darkened 500→700)
 - Best Practices: 100 | SEO: 100
 - Fixes propagated to all 12 Tier-1 sites (font async global, orange-contrast on 7 food-theme sites); all rebuilt green.
+
+## Maps embed + README (2026-09-15)
+- [x] Google Maps iframe embed added to #visit panel (lazy-loaded, `output=embed`, query fused from page's own Maps URL)
+- [x] Per-site README.md added (live link, owner update guide)
